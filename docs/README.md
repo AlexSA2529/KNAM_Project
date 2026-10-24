@@ -5,3 +5,4 @@
 ## 📋 Содержание раздела:
 - [Функциональные требования (ФТ)](./Functional_requirements.md)
 - [Нефункциональные требования (НФТ)](./Nonfunctional_requirements.md)
+- [Последовательность работы системы](./03_Sequence_process.md)
